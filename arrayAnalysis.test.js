@@ -43,3 +43,4 @@ test('Getting length with a big array', ()=>{
 test('Empty array', ()=>{
     expect(analyze([]).length).toBe(0)
 })
+
